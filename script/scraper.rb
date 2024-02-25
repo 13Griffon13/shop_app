@@ -22,7 +22,7 @@ itemList = []
 items.each do |item| 
 	# extracting the data of interest 
 	# from the current product HTML element 
-	url = item.css("a").first.attribute("href").value 
+	url = "https://en.wikipedia.org/"+item.css("a").first.attribute("href").value 
 	name = item.css("a").text
  
 	# storing the scraped data in a PokemonProduct object 
