@@ -5,8 +5,11 @@ application up and running.
 
 Things you may want to cover:
 
-#conamds
+* commands
  - bin/rails server
+
+
+
 
 * Ruby version
 
