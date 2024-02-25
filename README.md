@@ -7,7 +7,7 @@ Things you may want to cover:
 
 #conamds
  - bin/rails server
- - ruby bin\rails server FOR WINDOWS!
+
 * Ruby version
 
 * System dependencies
